@@ -18,7 +18,7 @@ Maka dari itu, setidaknya mereka diberi hint harga melalui platform penjualan mo
 - Mendefinisikan transformer (encoding, impute, etc)
 ## 5. Choose Best Benchmark Model
 - Crossvalidation untuk 5 model regresi 
-- Pejelasan mengenai penentuan model terbaik
+- Penjelasan mengenai penentuan model terbaik
 ## 6. Hyperparameter Tuning and Predict to Test Set (First Attempt)
 - Penjelasan mengenai pencarian parameter terbaik untuk model XGBoost (Best Benchmark Model)
 - Membandingkan hasil sebelum hyperparameter tuning dan setelah hyperparameter tuning
